@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shaurya-dev7" alt="Shaurya-dev7" /></a> </p>
 
-- 🔭 I'm currently working on **🔭 Currently working on AI-powered applications, scalable web systems & data-driven solutions**
+- 🔭 I'm currently **working on AI-powered applications, scalable web systems & data-driven solutions**
 
-- 🌱 I'm currently learning **🧠 Exploring the world of Data Science, Machine Learning & intelligent systems**
+- 🌱 I'm currently🧠 **Exploring the world of Data Science, Machine Learning & intelligent systems**
 
-- 👯 I'm looking to collaborate on **👯 Looking to collaborate on AI/ML projects, innovative web apps & open-source solutions**
+- 👯 I'm looking to **AI/ML projects, innovative web apps & open-source solutions**
 
-- 🤝 I'm looking for help with **🚀 Looking for mentorship and collaboration in AI, Data Science & modern software engineering**
+- 🤝 I'm looking **for help with mentorship and collaboration in AI, Data Science & modern software engineering**
 
-- 💬 Ask me about **💬 Ask me about AI/ML, Data Science, SQL, Web Development & real-world software projects**
+- 💬 Ask me about **AI/ML, Data Science, SQL, Web Development & real-world software projects**
 
 - 📫 How to reach me **shauryadeeprai@gmail.com**
 
