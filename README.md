@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://github.com/Shaurya-dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shaurya-dev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Shaurya Deep Rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shaurya Deep Rai" height="30" width="40" /></a>
-<a href="https://instagram.com/shauryayyy_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shauryayyy_." height="30" width="40" /></a>
+<a href="https://instagram.com/shauryayyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shauryayyy_" height="30" width="40" /></a>
 <a href="https://leetcode.com/shaurya007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya007" height="30" width="40" /></a>
 </p>
 
